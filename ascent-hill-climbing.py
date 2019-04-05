@@ -14,7 +14,7 @@ NUM_AMOSTRA = 1000
 
 
 def hill_climbing():
-
+    
     file_quad = open('resultados_quad.csv', 'w+')
     file_ackley = open('resultados_ackley.csv', 'w+')
 
